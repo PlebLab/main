@@ -12,7 +12,7 @@ Whether we're hosting hack-a-thons for Btc++, #SATSx or opening our doors for th
 Clubs:
 PlebLab has a humble beginning with our roots as Austin Bitcoin Club. We support the efforts of Plebs and Devs alike as we continue to grow our local grass-root efforts.
 
-If you share our passion for Bitcoin and want to be part of a community that is dedicated to building the future, we invite you to join us. Together, we can make a difference and support the growth of the Bitcoin ecosystem. ⚡️
+If you share our passion for Bitcoin and want to be part of a community that is dedicated to building the future, we invite you to join us. Together, we can make a difference and support the growth of the Bitcoin ecosystem.
 
 ⚡️Support the lab
 
