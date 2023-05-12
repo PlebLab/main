@@ -15,6 +15,7 @@ PlebLab is here to help you learn and grow on your journey as a builder. We have
 
 Hackathons:
 [![Hackathons](https://i.ibb.co/VM9m15D/Screen-Shot-2023-05-12-at-11-32-59-AM.png)](https://github.com/PlebLab/PlebLab_Hackathons)
+Pleb Lab at its core is a group of misfit hackers who firmly believe that coming together to support developers is key for bitcoin to continue. Free and open-source development is critical to breakthroughs in bitcoin. The FOSS ethos is at the center of what we do here at PlebLab.
 
 Meetups:
 [![Clubs](https://i.ibb.co/wsT1fN8/Screen-Shot-2023-05-12-at-11-32-39-AM.png)](https://www.meetup.com/pro/austin-bitcoin-scene/)
