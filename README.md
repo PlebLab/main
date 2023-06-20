@@ -20,9 +20,9 @@ Pleb Lab at its core is a group of misfit hackers who firmly believe that coming
 Meetups:
 [![Clubs](https://i.ibb.co/wsT1fN8/Screen-Shot-2023-05-12-at-11-32-39-AM.png)](https://www.meetup.com/pro/austin-bitcoin-scene/)
 
-PlebLab has a humble beginning with our roots as Austin Bitcoin Club. We support the efforts of Plebs and Devs alike as we continue to grow our local grass-root efforts.
+Did you know: PlebLab has a humble beginning with our roots as Austin Bitcoin Club? We support the efforts of Plebs, Devs, and Builders across the globe as we continue to grow our local grass-root efforts.
 
-If you share our passion for Bitcoin and want to be part of a community that is dedicated to building the future, we invite you to join us. Together, we can make a difference and support the growth of the Bitcoin ecosystem.
+If you share our passion for Bitcoin and want to be part of a community dedicated to building the future, we invite you to join us. Together, we can make a difference and support the growth of the Bitcoin ecosystem.
 
 ⚡️Support the lab
 
