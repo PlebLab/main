@@ -1,10 +1,8 @@
 # PlebLab Main
 [![PlebLab Flag](https://user-images.githubusercontent.com/33615693/227038002-34b6abd1-1708-4e5a-a381-3d530ae0842b.png)](https://pleblab.com)
 
-At PlebLab, we are dedicated to supporting the next generation of Bitcoin builders and startups. As a hackerspace and community accelerator located in Austin, Texas, we believe that collaboration and innovation are key to driving the growth and adoption of Bitcoin.
-
 ## Dream, Build, Inspire with PlebLab
-PlebLab's mission is to foster a community of developers, hackers, creatives, and builders of open-source software/hardware. We create a space where individuals can collaborate, elevate their skills, and transform seemingly impossible ideas into reality.
+At PlebLab, we are dedicated to supporting the next generation of Bitcoin builders and startups as a hackerspace and community accelerator in Austin, Texas. PlebLab's mission is to foster a community of developers, hackers, creatives, and builders of open-source software/hardware. We create a space where individuals can collaborate, elevate their skills, and transform seemingly impossible ideas into reality.
 
 ## PlebBook
 
