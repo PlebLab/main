@@ -12,7 +12,7 @@ PlebBook is a community resource for aspiring developers and builders to learn a
 
 
 ## Startup Day
-[![PlebLab Startup Day_3K (2248 x 1152 px)](https://github.com/PlebLab/main/assets/33615693/38388b1b-aa14-4783-90bd-2eb9d62f70bc)](https://github.com/PlebLab/PlebLab_Startup-Day)
+[![PlebLab Startup Day_3K (2248 x 1152 px)](https://github.com/user-attachments/assets/9a38386f-a650-4c00-81e3-fb069d5705fa)](https://www.pleblab.dev/)
 
 This is a bi-annual event for Bitcoin startups looking for a platform! Our event is jam-packed with engaging builder sessions, workshops, special announcements, and speaker panels designed to help all of us learn and grow as a community.
 
@@ -26,9 +26,10 @@ PlebLab is here to help you learn and grow on your journey as a builder. We have
 
 PlebLab at its core is a group of misfit hackers who firmly believe that coming together to support developers is key for bitcoin to continue. Free and open-source development is critical to breakthroughs in bitcoin. The FOSS ethos is at the center of what we do here at PlebLab.
 
+
 ## Top Builder 
 
-[![PlebLab Top Builder (3000 x 3000 px)](https://github.com/PlebLab/main/assets/33615693/9611e3cf-b723-4141-a382-d12310489432)](https://github.com/PlebLab/Top-Builder)
+[![PlebLab Top Builder (3000 x 3000 px)](https://github.com/user-attachments/assets/4f0c984f-acb4-48e9-9c90-0578c1b8a29b)](https://github.com/PlebLab/Top-Builder-Season-2)
 Are you the next Top Builder? Top Builder takes home $15K in Bitcoin. All builders win by gaining exposure, mentorship, and collaboration opportunities in the Bitcoin ecosystem. Only one can be Top Builder.
 
 ## Meetups
