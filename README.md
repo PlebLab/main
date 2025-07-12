@@ -84,7 +84,7 @@ A family-style dinner at the hackerspace to celebrate community, share a meal, a
 [![PlebTV](https://img.youtube.com/vi/a8aZ9RcxlxQ/0.jpg)](https://youtu.be/a8aZ9RcxlxQ)
 
 Bitcoin-native media platform.  
-Early beta dropping soonish, peep the alpha release → [plebtv.tv](https://plebtv.tv)
+Early beta dropping soonish, peep the alpha release → [PlebTV](https://plebtv.com)
 
 ---
 
@@ -99,7 +99,7 @@ Early beta dropping soonish, peep the alpha release → [plebtv.tv](https://pleb
 
 ## 🔗 Stay Connected
 - **Twitter / X:** [@pleblab](https://twitter.com/pleblab)  
-- **Podcast (Early Days):** [Fountain.fm](https://fountain.fm/show/rcRK35db4F5KKhB2rFZP)  
+- **Podcast (Early Days):** [Linktree](https://linktr.ee/earlydays21)  
 - **Newsletter:** [Subscribe](https://dashboard.mailerlite.com/forms/10467/51078046840522216/share)  
 - **Merch:** [merch.pleblab.dev](https://merch.pleblab.dev/)  
 - **Apply to Hackerspace:** [bit.ly/applytohackerspace](https://bit.ly/applytohackerspace)
@@ -113,7 +113,7 @@ Early beta dropping soonish, peep the alpha release → [plebtv.tv](https://pleb
 ---
 
 ## ⚡️ Support the Lab
-[![Donate](https://github.com/PlebLab/main/assets/33615693/84f034f6-3ba5-48c3-9949-be2d92a70ed4)](https://pay.zaprite.com/pl_utaxL87ElV)
+[![Donate](https://github.com/PlebLab/main/assets/33615693/84f034f6-3ba5-48c3-9949-be2d92a70ed4)](https://bit.ly/pl145)
 
 > Every sat supports rent, hardware, and building a community accelerator driven by hackers, creatives, and founders.  
 Donate here → [https://bit.ly/pl145](https://bit.ly/pl145)
