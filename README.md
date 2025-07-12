@@ -1,90 +1,119 @@
 # PlebLab Main
-[![PlebLab Flag](https://user-images.githubusercontent.com/33615693/227038002-34b6abd1-1708-4e5a-a381-3d530ae0842b.png)](https://pleblab.com)
+[![PlebLab Flag](https://user-images.githubusercontent.com/33615693/227038002-34b6abd1-1708-4e5a-a381-3d530ae0842b.png)](https://pleblab.dev)
 
-## Dream, Build, Inspire with PlebLab
-At PlebLab, we are dedicated to supporting the next generation of Bitcoin builders and startups as a hackerspace and community accelerator in Austin, Texas. PlebLab's mission is to foster a community of developers, hackers, creatives, and builders of open-source software/hardware. We create a space where individuals can collaborate, elevate their skills, and transform seemingly impossible ideas into reality.
+## Dream • Build • Inspire
+At **PlebLab**, we’re empowering the next generation of Bitcoin builders from our hackerspace and community accelerator in Austin, Texas. It represents the belief that anyone can become a builder in the Bitcoin space—regardless of background, pedigree, or location. You don't need permission, just curiosity and tenacity. It’s DIY, sovereign, and collaborative. We cultivate a strong community of developers, hackers, creatives, and founders shipping open-source projects, startups, software, hardware, and code.
 
-## PlebBook
+---
 
-[![plebbook](https://github.com/PlebLab/main/assets/33615693/04277644-9536-4c07-afef-d1ed93b78c4b)](https://plebbook.com)
+## 📚 PlebBook
+[![PlebBook](https://github.com/PlebLab/main/assets/33615693/04277644-9536-4c07-afef-d1ed93b78c4b)](https://plebbook.com)
 
-PlebBook is a community resource for aspiring developers and builders to learn and get involved with the Bitcoin Lightning ecosystem. Kinda like a builders manual for Bitcoin and Lightning.
+Your field manual for Bitcoin & Lightning development. Start building, contribute to FOSS-first projects, and level-up fast.
 
+---
 
-## Startup Day
-[![PlebLab Startup Day_3K (2248 x 1152 px)](https://github.com/user-attachments/assets/9a38386f-a650-4c00-81e3-fb069d5705fa)](https://www.pleblab.dev/)
+## 🚀 Startup School • Summer Edition 2025
+[![Startup School](https://i.ibb.co/Hf7ZxYdG/pleblab-hackerspaces-7.png)](https://bit.ly/plstartupschool)
 
-This is a bi-annual event for Bitcoin startups looking for a platform! Our event is jam-packed with engaging builder sessions, workshops, special announcements, and speaker panels designed to help all of us learn and grow as a community.
+A four-month hybrid program (June–Sept 2025) packed with weekly coaching, workshops, and demo-day prep for early-stage Bitcoin startups.
 
-## Workshops
-[![Workshops](https://i.ibb.co/d0BxPDm/Screen-Shot-2023-05-12-at-11-33-14-AM.png)](https://github.com/PlebLab/PlebLab_Workshops)
+- **Curriculum:** Foundation → Product → Revenue → Pitch  
+- **Apply:** [bit.ly/plstartupschool](https://bit.ly/plstartupschool)
 
-PlebLab is here to help you learn and grow on your journey as a builder. We have weekly workshops hosted by developers in the Bitcoin ecosystem. 
+---
 
-## Hackathons
-[![Hackathons](https://i.ibb.co/VM9m15D/Screen-Shot-2023-05-12-at-11-32-59-AM.png)](https://github.com/PlebLab/PlebLab_Hackathons)
+## 🌴 Startup Day 2025 • TBA
+[![Startup Day Yucatán](https://i.ibb.co/vx2JsBgQ/Startup-Day.gif)](https://lu.ma/yucatan-startup-day)
 
-PlebLab at its core is a group of misfit hackers who firmly believe that coming together to support developers is key for bitcoin to continue. Free and open-source development is critical to breakthroughs in bitcoin. The FOSS ethos is at the center of what we do here at PlebLab.
+Bi-annual showcase once in Austin during SXSW and the summer coinciding with Mexico’s Bitcoin Block Party by **Yopaki**. Full-day keynotes, panels, and two pitch slots for early-stage founders.
 
+- **Venue:** TBA  
+- **Tickets:** $299 general / $199 students  
+- **Speaker highlight:** Francisco (Keynote) + more TBA
 
-## Top Builder 
+---
 
-[![PlebLab Top Builder (3000 x 3000 px)](https://github.com/user-attachments/assets/4f0c984f-acb4-48e9-9c90-0578c1b8a29b)](https://github.com/PlebLab/Top-Builder-Season-2)
-Are you the next Top Builder? Top Builder takes home $15K in Bitcoin. All builders win by gaining exposure, mentorship, and collaboration opportunities in the Bitcoin ecosystem. Only one can be Top Builder.
+## ✨ Top Builder • Season 2 (2024–25)
 
-## Meetups
-[![Clubs](https://i.ibb.co/wsT1fN8/Screen-Shot-2023-05-12-at-11-32-39-AM.png)](https://www.meetup.com/pro/austin-bitcoin-scene/)
+<a href="https://github.com/PlebLab/Top-Builder-Season-2">
+  <img src="https://github.com/user-attachments/assets/4f0c984f-acb4-48e9-9c90-0578c1b8a29b" alt="Top Builder Season 2" width="500"/>
+</a>
 
-Did you know: PlebLab has a humble beginning with our roots as Austin Bitcoin Club? We support the efforts of Plebs, Devs, and Builders across the globe as we continue to grow our local grass-root efforts.
-
-If you share our passion for Bitcoin and want to be part of a community dedicated to building the future, we invite you to join us. Together, we can make a difference and support the growth of the Bitcoin ecosystem.
-
-## Join Us at PlebLab to Shape the Future of Bitcoin!
-PlebLab is a group that supports Bitcoin's success through free and open-source development. We back early-stage Bitcoin startups and developers and host weekly workshops and hangouts. Reach out via Twitter or our website to:
-- Host a workshop
-- Work out of the lab
-- Pitch your startup idea
-- Find your cofounder
-
-The FOSS ethos drives our mission to foster an open-source software/hardware community.
-
-## 📢 Get Involved & Stay Updated
-Interested in a workshop or collaboration? Join us at PlebLab to shape the future of Bitcoin!
-
-👍 Like | 💬 Comment | 🔔 Subscribe to support our channel!
-
-💬 Reach out via Twitter: [https://twitter.com/pleblab](https://twitter.com/pleblab)
-
-✨ Learn more about PlebLab ➤ Visit us at [https://pleblab.dev](https://pleblab.dev)
-
-📍 Meetup: [https://www.meetup.com/pleb-lab/](https://www.meetup.com/pleb-lab/)
-
-👕 Merch: [https://merch.pleblab.dev/](https://merch.pleblab.dev/)
-
-📮 Newsletter: [https://dashboard.mailerlite.com/forms/10467/51078046840522216/share](https://dashboard.mailerlite.com/forms/10467/51078046840522216/share)
-
-🟠 Apply to PlebLab: [https://www.pleblab.dev/#pricing](https://www.pleblab.dev/#pricing)
+$10,000 in BTC for the one true Top Builder—plus mentorship, global exposure, and collaboration.  
+*Presented by **Timestamp** | Sign-ups: Oct 28–Dec 31, 2024*
 
 
-### Watch Our Latest Events Online:
-[![yotube-ezgif com-video-to-gif-converter](https://github.com/PlebLab/main/assets/33615693/23abd526-8fa9-4167-9a3d-4d01ac271e4c)](https://www.youtube.com/@pbs_plebs/)
+---
 
-🎥 YouTube Streams: [https://www.youtube.com/@pbs_plebs/streams](https://www.youtube.com/@pbs_plebs/streams)
+## 🛠️ Workshops
 
-🎥 Twitch: [https://www.twitch.tv/pleblab](https://www.twitch.tv/pleblab)
+Live in-person deep dives with hackers, founders, engineers, and open-source builders.  
+Check the [📍 Luma calendar](https://lu.ma/calendar/cal-Kz7zAdSpmjwG4Sp) for the next session.
 
-🎥 Zap.Stream: [https://zap.stream/p/npub1an84q6c03wml5lf0uwcqcr20ydwv0t0lvv0xktlcfs9seattef8sdhz6yg](https://zap.stream/p/npub1an84q6c03wml5lf0uwcqcr20ydwv0t0lvv0xktlcfs9seattef8sdhz6yg)
+---
+
+## 🏆 Hackathons
+
+From 24-hour code-sprints to weekend-builds—FOSS ethos, real Bitcoin problems, and prizes paid in sats.
+
+---
+
+## 🙌 Bitcoin Builders Club
+
+<img src="https://i.ibb.co/3yV8p6kQ/BBC-1.jpg" alt="Bitcoin Builders Club" width="500"/>
+
+PlebLab sprouted from the [**Austin Bitcoin Club**](https://youtu.be/FcaQ-EifEJY?si=wfNThDlGVw1PAqEB) and now fuels a monthly meetup with [@BTCBuildersClub](https://x.com/BTCBuildersClub), hosted at Capital Factory.
+
+Since summer 2025, we’ve been creating a recurring event that fits Austin’s vibrant tech community—bridging Bitcoin and builder culture where people gather day and night, online and IRL, for meetups, classes, and co-working.
+
+> 💡 [Why Lifting Up Matters: Every Founder Starts Somewhere](https://pulse.pleblab.dev/why-lifting-up-matters-every-founder-starts-somewhere/) by Car, Co-founder of PlebLab
 
 
-### 👉 Follow PlebLab for More Updates
-👉 Twitter: [https://twitter.com/pleblab](https://twitter.com/pleblab)
+---
 
-👉 Listen to our Podcast: [https://fountain.fm/show/rcRK35db4F5KKhB2rFZP](https://fountain.fm/show/rcRK35db4F5KKhB2rFZP)
+## 🍗 Plebsgiving 2025
+<img src="https://i.ibb.co/mFv3B7FZ/4773-A6-CD-235-E-4348-A117-6-EED631-DAA35.jpg" alt="Plebsgiving 2025" width="500"/>
 
+Save the date—**Nov 15, 2025 | 5–8 PM**  
+A family-style dinner at the hackerspace to celebrate community, share a meal, and carry on the Plebsgiving tradition we've upheld since 2021.
+
+---
+
+## 📺 PlebTV 
+[![PlebTV](https://img.youtube.com/vi/a8aZ9RcxlxQ/0.jpg)](https://youtu.be/a8aZ9RcxlxQ)
+
+Bitcoin-native media platform.  
+Early beta dropping soonish, peep the alpha release → [plebtv.tv](https://plebtv.tv)
+
+---
+
+## ⚡️ Watch Live & On-Demand
+[![YouTube thumbnail](https://github.com/PlebLab/main/assets/33615693/23abd526-8fa9-4167-9a3d-4d01ac271e4c)](https://www.youtube.com/@pleblab)
+
+- **YouTube:** [@pleblab](https://www.youtube.com/@pleblab)  
+- **Twitch:** [twitch.tv/pleblab](https://www.twitch.tv/pleblab)  
+- **Zap.Stream:** [zap.stream profile](https://zap.stream/p/npub1an84q6c03wml5lf0uwcqcr20ydwv0t0lvv0xktlcfs9seattef8sdhz6yg)
+
+---
+
+## 🔗 Stay Connected
+- **Twitter / X:** [@pleblab](https://twitter.com/pleblab)  
+- **Podcast (Early Days):** [Fountain.fm](https://fountain.fm/show/rcRK35db4F5KKhB2rFZP)  
+- **Newsletter:** [Subscribe](https://dashboard.mailerlite.com/forms/10467/51078046840522216/share)  
+- **Merch:** [merch.pleblab.dev](https://merch.pleblab.dev/)  
+- **Apply to Hackerspace:** [bit.ly/applytohackerspace](https://bit.ly/applytohackerspace)
+
+---
+
+## 🤝 Get Involved
+*Host a workshop • Visit the lab • Pitch your project/startup • Find fellow like minded builders.*  
+📧 Email: [hello@pleblab.com](mailto:hello@pleblab.com)
+
+---
 
 ## ⚡️ Support the Lab
-[![hackerspace donation](https://github.com/PlebLab/main/assets/33615693/84f034f6-3ba5-48c3-9949-be2d92a70ed4)](https://pay.zaprite.com/pl_utaxL87ElV)
+[![Donate](https://github.com/PlebLab/main/assets/33615693/84f034f6-3ba5-48c3-9949-be2d92a70ed4)](https://pay.zaprite.com/pl_utaxL87ElV)
 
-  
-🤙 If you are interested in supporting our mission, consider donating here: [https://pay.zaprite.com/pl_utaxL87ElV](https://pay.zaprite.com/pl_utaxL87ElV)
-
+> Every sat supports rent, hardware, and building a community accelerator driven by hackers, creatives, and founders.  
+Donate here → [https://bit.ly/pl145](https://bit.ly/pl145)
