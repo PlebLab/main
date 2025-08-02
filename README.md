@@ -23,13 +23,14 @@ A four-month hybrid program (June–Sept 2025) packed with weekly coaching, work
 
 ---
 
-## 🌴 Startup Day 2025 • TBA
-[![Startup Day Yucatán](https://i.ibb.co/vx2JsBgQ/Startup-Day.gif)](https://lu.ma/yucatan-startup-day)
+## 🌴 Startup Day 2025 • October 9th, 10th, 11th
+
+![Startup Day 2025 - Yucatan (2548 x 1152 px)](https://github.com/user-attachments/assets/84254863-c325-4d97-b921-e63a76b36994)
 
 Bi-annual showcase once in Austin during SXSW and the summer coinciding with Mexico’s Bitcoin Block Party by **Yopaki**. Full-day keynotes, panels, and two pitch slots for early-stage founders.
 
-- **Venue:** TBA  
-- **Tickets:** $299 general / $199 students  
+- **Venue:** White Paper House
+- **Tickets:** [$299 general / $199 students](https://www.pleblab.dev/blog-detail/pleblab-startup-day-yucatan-presented-by-yopaki)  
 - **Speaker highlight:** Francisco (Keynote) + more TBA
 
 ---
@@ -65,7 +66,7 @@ From 24-hour code-sprints to weekend-builds—FOSS ethos, real Bitcoin problems,
 
 PlebLab sprouted from the [**Austin Bitcoin Club**](https://youtu.be/FcaQ-EifEJY?si=wfNThDlGVw1PAqEB) and now fuels a monthly meetup with [@BTCBuildersClub](https://x.com/BTCBuildersClub), hosted at Capital Factory.
 
-Since summer 2025, we’ve been creating a recurring event that fits Austin’s vibrant tech community—bridging Bitcoin and builder culture where people gather day and night, online and IRL, for meetups, classes, and co-working.
+Since summer 2025, we’ve been creating a recurring event that fits Austin’s vibrant tech community—bridging Bitcoin and builder culture where people gather day and night, online and IRL, for meetups, classes, and co-working. [RSVP for the latest one.](https://lu.ma/calendar/cal-a9wRNBLgALnsGj9)
 
 > 💡 [Why Lifting Up Matters: Every Founder Starts Somewhere](https://pulse.pleblab.dev/why-lifting-up-matters-every-founder-starts-somewhere/) by Car, Co-founder of PlebLab
 
