@@ -23,6 +23,20 @@ A four-month hybrid program (June–Sept 2025) packed with weekly coaching, work
 
 ---
 
+## 🚀 Startup School 2: Summer Edition
+[![Startup School 2: Summer Edition](./startup-school-2-summer-edition.jpg)](https://bit.ly/plsschool2)
+
+Three-month hybrid program for early-stage, pre-product founders and builders using the updated Bitcoin curriculum.
+
+- **Books:** 4  
+- **Dedication:** 3 months  
+- **Format:** Hybrid  
+- **Modules:** 4  
+- **Niche:** Bitcoin Curriculum V2  
+- **Apply:** [bit.ly/plsschool2](https://bit.ly/plsschool2)
+
+---
+
 ## 🌴 Startup Day 2025 • October 9th, 10th, 11th
 
 ![Startup Day 2025 - Yucatan (2548 x 1152 px)](https://github.com/user-attachments/assets/84254863-c325-4d97-b921-e63a76b36994)
@@ -32,6 +46,16 @@ Bi-annual showcase once in Austin during SXSW and the summer coinciding with Mex
 - **Venue:** White Paper House
 - **Tickets:** [$299 general / $199 students](https://www.pleblab.dev/blog-detail/pleblab-startup-day-yucatan-presented-by-yopaki)  
 - **Speaker highlight:** Francisco (Keynote) + more TBA
+
+---
+
+## 💻 AI Startup Rodeo
+
+[![AI Startup Rodeo](./ai-startup-rodeo.jpg)](https://luma.com/ai-startup-rodeo)
+
+A builder-focused AI x Bitcoin gathering during SXSW week for founders, developers, and operators shipping real products.
+
+- **RSVP / Info:** [luma.com/ai-startup-rodeo](https://luma.com/ai-startup-rodeo)
 
 ---
 
